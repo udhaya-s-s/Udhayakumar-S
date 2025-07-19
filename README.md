@@ -7,16 +7,16 @@ I'm a certified DevOps Engineer with 3+ years of hands-on experience at Cognizan
 ## 🚀 What I Do
 
 - **CI/CD & Automation:** Design, build, and optimize end-to-end pipelines using Azure DevOps, Maven, and SonarQube.
-- **Cloud Expertise:** Deploy and manage resources on AWS and Azure (EC2, Auto Scaling, VPC, IAM, Security Groups, VNet, Subnet).
+- **Cloud Expertise:** Deploy and manage resources on AWS and Azure (EC2, Auto Scaling, VPC, Lambda, DynamoDB, IAM, Security Groups, VNet, Subnet).
 - **Scripting & Troubleshooting:** Skilled in Linux, Bash, and SQL for automation and root cause analysis.
-- **Process Improvement:** Advocate for DevOps best practices and release management.
+- **Process Improvement:** DevOps best practices and release management.
 
 ---
 
 ## 🛠️ Skills & Certifications
 
 - **Azure DevOps:** CI/CD pipelines, automated deployment workflows
-- **Cloud Platforms:** Azure, AWS (EC2, Auto Scaling, VPC, IAM, Security Groups, VNet, Subnet)
+- **Cloud Platforms:** Azure, AWS (EC2, Auto Scaling, VPC, Lambda, DynamoDB, IAM, Security Groups, VNet, Subnet)
 - **Scripting:** Linux, Bash, SQL
 - **Certifications:**  
   - Microsoft Certified: Azure Fundamentals (AZ-900)  
