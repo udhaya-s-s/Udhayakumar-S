@@ -35,6 +35,6 @@ I’m seeking new opportunities where I can:
 
 ## 📫 Connect with Me
 
-[![LinkedIn]
+LinkedIn
 
 (https://www.linkedin.com/in/udhayakumar-s-8165aa374)
